@@ -1,0 +1,75 @@
+{
+    "Product": [
+        {
+            "id": 1,
+            "name": "Semiótica e pragmatismo: interfaces teórica",
+            "price": 12.99,
+            "quantity": 1,
+            "category": "Livro",
+            "img": "https://m.media-amazon.com/images/I/41NAy-6jSeS.jpg"
+
+
+
+        },
+        {
+            "id": 2,
+            "name": "Comida: prazeres, gozos e transgressões",
+            "price": 10.99,
+            "quantity": 1,
+            "category": "Livro",
+            "img": "https://m.media-amazon.com/images/I/51V8xMwp2dL._SY346_.jpg"
+
+
+
+        },
+        {
+            "id": 3,
+            "name": "Individualização, cidadania e inclusão na sociedade contemporânea",
+            "price": 15.99,
+            "quantity": 1,
+            "category": "Livro",
+            "img": "https://m.media-amazon.com/images/I/51-abSXAQOL.jpg"
+
+
+
+        },
+        {
+            "id": 4,
+            "name": "Educação das relações étnico-raciais",
+            "price": 19.88,
+            "quantity": 1,
+            "category": "Livro",
+            "img": "https://m.media-amazon.com/images/I/510ijJkfaWL.jpg"
+
+
+
+        },
+        {
+            "id": 5,
+            "name": "A ciência a caminho da roça",
+            "price": 17.99,
+            "quantity": 1,
+            "category": "Livro",
+            "img": "https://m.media-amazon.com/images/I/51w4ddr5i0L.jpg"
+
+
+
+        },
+        {
+            "id": 6,
+            "name": "Saúde da família: boas práticas e círculos virtuosos",
+            "price":17.99,
+            "quantity": 1,
+            "category": "Livro",
+            "img": "https://m.media-amazon.com/images/I/41x+HOOsjaL.jpg"
+
+
+
+        }
+    ]
+
+
+
+
+
+}

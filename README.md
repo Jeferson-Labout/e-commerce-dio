@@ -165,7 +165,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <br />
 
 [![Twitter Badge](https://img.shields.io/badge/-@JefersonLabout-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JefersonLabout)](https://twitter.com/JefersonLabout) [![Linkedin Badge](https://img.shields.io/badge/-Jeferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-labout-91686015b/)](https://www.linkedin.com/in/jeferson-labout-91686015b/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefson1989@gmail.com)](mailto:jefson1989@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jefson1989@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefson1989@gmail.com)](mailto:jefson1989@gmail.com)
 
 ---
 

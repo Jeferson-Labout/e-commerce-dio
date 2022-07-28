@@ -12,7 +12,6 @@ import { ProductListComponent } from './components/bookstore-app/product-list/pr
 import { ProductItemComponent } from './components/bookstore-app/product-list/product-item/product-item.component';
 import { BooksSevice } from './components/bookstore-app/product-list/product-list-component.service';
 import { HttpClientModule } from '@angular/common/http';
-import { HomeComponent } from './components/bookstore-app/home/home.component';
 
 @NgModule({
   declarations: [
@@ -23,8 +22,7 @@ import { HomeComponent } from './components/bookstore-app/home/home.component';
     BookstoreAppComponent,
     FiltersComponent,
     ProductListComponent,
-    ProductItemComponent,
-    HomeComponent
+    ProductItemComponent
   ],
   imports: [
     BrowserModule,
